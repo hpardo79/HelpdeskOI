@@ -1,0 +1,16 @@
+# Archivos de entorno (contiene secretos)
+.env
+
+# Entorno virtual de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Base de datos de desarrollo
+helpdeskoi.db
+*.db-journal
+
+# Archivos de informacion
+*.txt
+*.csv
+GEMINI.md
